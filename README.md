@@ -1,2 +1,2 @@
 # woo-dummy-data-for-Japan
-日本向けの商品ダミーデータ
+日本向けのWooCommerce用の商品ダミーデータ
